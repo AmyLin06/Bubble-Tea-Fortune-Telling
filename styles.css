@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px;
+    background: url("https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0441/1326/rbobafabricpink_shop_preview.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:purple;
+}
+
+span{
+    display:none;
+}
+
+button{
+    color:violet;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    border: 3px solid ;
+    font-family: 'Amatic SC', cursive;
+    font-size: 20px;
+    background-color: #f7eaca;
+    
+}
+
+button:hover{ 
+    color:lightblue;
+}
+input{
+    width: 200px;
+    height: 25px;
+    border-radius: 10px;
+    border: 3px solid ;
+    color:violet;
+    background-color:#f7eaca;
+}
